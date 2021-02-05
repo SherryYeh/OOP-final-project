@@ -1,0 +1,214 @@
+﻿  MainForm.cpp
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\RenderParameter.h(40): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\RenderParameter.h(44): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\RenderParameter.h(48): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\RenderParameter.h(52): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\RenderParameter.h(60): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\Torpedo.h(16): warning C4005: 'PICTURE': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\Shell.h(5): note: 請參閱 'PICTURE' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(109): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::SetLaserAngle' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(109): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(110): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::GetLaserAngle' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(110): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(112): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::setIsLaserShooting' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(112): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(113): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::getIsLaserShooting' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(113): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(115): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::setLaserCD' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(115): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(116): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::getLaserCD' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(116): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(118): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::setRemainLaserCD' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(118): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(119): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::minus1RemainLaserCD' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(119): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(120): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::getRemainLaserCD' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(120): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(122): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::setIsLaserHitSomething' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(122): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(123): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::getIsLaserHitSomething' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(123): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(125): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::setLaserLog' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(125): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(126): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::strcatLaserLog' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(126): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(127): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::getLaserLog' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(127): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(131): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::setEnrichValue' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(131): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(132): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::getEnrichValue' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(132): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(134): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::setEnrichValue_dis' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(134): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(135): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::getEnrichValue_dis' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(135): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(137): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::setEnrichValue_CD' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(137): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(138): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::getEnrichValue_CD' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(138): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(140): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::set_remain_Enrich_CD' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(140): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(141): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::get_remain_Enrich_CD' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(141): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(142): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::minus1remain_Enrich_CD' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(142): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(150): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::DrawLaser' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(150): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(151): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::render' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(151): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(153): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::isEnrichVessel' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselObject.h(153): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselBB.h(7): warning C4005: 'NAME': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselCV.h(7): note: 請參閱 'NAME' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselBB.h(8): warning C4005: 'HP': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselCV.h(8): note: 請參閱 'HP' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselBB.h(10): warning C4005: 'MAX_ATTACK_DIS': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselCV.h(10): note: 請參閱 'MAX_ATTACK_DIS' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselBB.h(11): warning C4005: 'ATTACK_CD': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselCV.h(11): note: 請參閱 'ATTACK_CD' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselBB.h(12): warning C4005: 'MAX_DEFENSE_DIS': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselCV.h(12): note: 請參閱 'MAX_DEFENSE_DIS' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselBB.h(13): warning C4005: 'DEFENSE_CD': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselCV.h(13): note: 請參閱 'DEFENSE_CD' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselBB.h(15): warning C4005: 'SHELL_SPEED': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselCV.h(15): note: 請參閱 'SHELL_SPEED' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselCG.h(7): warning C4005: 'NAME': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselBB.h(7): note: 請參閱 'NAME' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselCG.h(8): warning C4005: 'HP': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselBB.h(8): note: 請參閱 'HP' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselCG.h(9): warning C4005: 'MAX_VESSEL_SPEED': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselCV.h(9): note: 請參閱 'MAX_VESSEL_SPEED' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselCG.h(10): warning C4005: 'MAX_ATTACK_DIS': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselBB.h(10): note: 請參閱 'MAX_ATTACK_DIS' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselCG.h(12): warning C4005: 'MAX_DEFENSE_DIS': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselBB.h(12): note: 請參閱 'MAX_DEFENSE_DIS' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselCG.h(14): warning C4005: 'DAMAGE': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselCV.h(14): note: 請參閱 'DAMAGE' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselCG.h(15): warning C4005: 'SHELL_SPEED': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselBB.h(15): note: 請參閱 'SHELL_SPEED' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselDD.h(7): warning C4005: 'NAME': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselCG.h(7): note: 請參閱 'NAME' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselDD.h(8): warning C4005: 'HP': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselCG.h(8): note: 請參閱 'HP' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselDD.h(9): warning C4005: 'MAX_VESSEL_SPEED': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselCG.h(9): note: 請參閱 'MAX_VESSEL_SPEED' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselDD.h(10): warning C4005: 'MAX_ATTACK_DIS': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselCG.h(10): note: 請參閱 'MAX_ATTACK_DIS' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselDD.h(11): warning C4005: 'ATTACK_CD': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselBB.h(11): note: 請參閱 'ATTACK_CD' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselDD.h(12): warning C4005: 'MAX_DEFENSE_DIS': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselCG.h(12): note: 請參閱 'MAX_DEFENSE_DIS' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselDD.h(13): warning C4005: 'DEFENSE_CD': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselBB.h(13): note: 請參閱 'DEFENSE_CD' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselDD.h(14): warning C4005: 'DAMAGE': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselCG.h(14): note: 請參閱 'DAMAGE' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselDD.h(17): warning C4005: 'LAUNCH_CD': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselCG.h(17): note: 請參閱 'LAUNCH_CD' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselLV.h(10): warning C4005: 'NAME': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselDD.h(7): note: 請參閱 'NAME' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselLV.h(11): warning C4005: 'HP': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselDD.h(8): note: 請參閱 'HP' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselLV.h(12): warning C4005: 'MAX_VESSEL_SPEED': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselDD.h(9): note: 請參閱 'MAX_VESSEL_SPEED' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselLV.h(13): warning C4005: 'MAX_ATTACK_DIS': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselDD.h(10): note: 請參閱 'MAX_ATTACK_DIS' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselLV.h(14): warning C4005: 'ATTACK_CD': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselDD.h(11): note: 請參閱 'ATTACK_CD' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselLV.h(15): warning C4005: 'MAX_DEFENSE_DIS': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselDD.h(12): note: 請參閱 'MAX_DEFENSE_DIS' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselLV.h(16): warning C4005: 'DEFENSE_CD': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselDD.h(13): note: 請參閱 'DEFENSE_CD' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselLV.h(17): warning C4005: 'DAMAGE': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselDD.h(14): note: 請參閱 'DAMAGE' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselLV.h(18): warning C4005: 'SHELL_SPEED': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselCG.h(15): note: 請參閱 'SHELL_SPEED' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselLV.h(44): warning C4553: '==': 運算子無效; 要使用 '=' 嗎?
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselAH.h(7): warning C4005: 'NAME': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselLV.h(10): note: 請參閱 'NAME' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselAH.h(8): warning C4005: 'HP': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselLV.h(11): note: 請參閱 'HP' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselAH.h(9): warning C4005: 'MAX_VESSEL_SPEED': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselLV.h(12): note: 請參閱 'MAX_VESSEL_SPEED' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselAH.h(11): warning C4005: 'ATTACK_CD': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselLV.h(14): note: 請參閱 'ATTACK_CD' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselAH.h(12): warning C4005: 'MAX_DEFENSE_DIS': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselLV.h(15): note: 請參閱 'MAX_DEFENSE_DIS' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselAH.h(13): warning C4005: 'DEFENSE_CD': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselLV.h(16): note: 請參閱 'DEFENSE_CD' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselAH.h(14): warning C4005: 'DAMAGE': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselLV.h(17): note: 請參閱 'DAMAGE' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselAH.h(15): warning C4005: 'SHELL_SPEED': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselLV.h(18): note: 請參閱 'SHELL_SPEED' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\GeographicSystem.h(98): warning C4490: 'override': 覆寫規範使用不當，'GeographicSystem::render' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\GeographicSystem.h(98): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\HydrometeorologicSystem.h(51): warning C4490: 'override': 覆寫規範使用不當，'HydrometeorologicSystem::getSize' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\HydrometeorologicSystem.h(51): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\HydrometeorologicSystem.h(52): warning C4490: 'override': 覆寫規範使用不當，'HydrometeorologicSystem::setSize' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\HydrometeorologicSystem.h(52): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\HydrometeorologicSystem.h(54): warning C4490: 'override': 覆寫規範使用不當，'HydrometeorologicSystem::getSize4Draw' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\HydrometeorologicSystem.h(54): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\HydrometeorologicSystem.h(55): warning C4490: 'override': 覆寫規範使用不當，'HydrometeorologicSystem::setSize4Draw' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\HydrometeorologicSystem.h(55): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\HydrometeorologicSystem.h(64): warning C4490: 'override': 覆寫規範使用不當，'HydrometeorologicSystem::render' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\HydrometeorologicSystem.h(64): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\HydrometeorologicSystem.h(72): warning C4490: 'override': 覆寫規範使用不當，'HydrometeorologicSystem::getRotatePictureAngle' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\HydrometeorologicSystem.h(72): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\HydrometeorologicSystem.h(73): warning C4490: 'override': 覆寫規範使用不當，'HydrometeorologicSystem::setRotatePictureAngle' 與基底 ref 類別方法不符
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\HydrometeorologicSystem.h(73): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\Lightning.h(6): warning C4005: 'DAMAGE': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\VesselAH.h(14): note: 請參閱 'DAMAGE' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\Typhoon.h(5): warning C4005: 'SPEED': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\Lightning.h(5): note: 請參閱 'SPEED' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\Typhoon.h(6): warning C4005: 'DAMAGE': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\Lightning.h(6): note: 請參閱 'DAMAGE' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\Typhoon.h(7): warning C4005: 'ATTACK_RANGE': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\Lightning.h(7): note: 請參閱 'ATTACK_RANGE' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\Fog.h(5): warning C4005: 'SPEED': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\Typhoon.h(5): note: 請參閱 'SPEED' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\Fog.h(6): warning C4005: 'DAMAGE': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\Typhoon.h(6): note: 請參閱 'DAMAGE' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\Fog.h(7): warning C4005: 'ATTACK_RANGE': 巨集重複定義
+  c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\Typhoon.h(7): note: 請參閱 'ATTACK_RANGE' 之前的定義
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(1164): warning C4552: '+': 運算子無效; 必須是具有副作用的運算子
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(1230): warning C4552: '+': 運算子無效; 必須是具有副作用的運算子
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(1595): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(1858): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(1955): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(1969): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(1983): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(1993): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2009): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2025): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2037): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2044): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2051): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2066): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2073): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2080): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2092): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2099): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2106): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2126): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2146): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2165): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2182): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2192): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2209): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2230): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2247): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2261): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2277): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2598): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2606): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2614): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(2622): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(3165): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(3171): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(3177): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(3183): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(3198): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(3309): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(3318): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(3327): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2017\projects\project3_10_v180611\project3_10\project3_10\MainForm.h(3336): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  Project3_10.vcxproj -> C:\Users\User\Documents\Visual Studio 2017\Projects\Project3_10_v180611\Project3_10\Debug\Project3_10.exe

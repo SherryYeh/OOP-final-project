@@ -1,0 +1,224 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中繼目錄 (Release\) 包含從其他專案 (Project3_10.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  MainForm.cpp
+c:\users\user\desktop\fleet command\project3_10\renderparameter.h(40): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+c:\users\user\desktop\fleet command\project3_10\renderparameter.h(44): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+c:\users\user\desktop\fleet command\project3_10\renderparameter.h(48): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+c:\users\user\desktop\fleet command\project3_10\renderparameter.h(52): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+c:\users\user\desktop\fleet command\project3_10\renderparameter.h(60): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+c:\users\user\desktop\fleet command\project3_10\torpedo.h(16): warning C4005: 'PICTURE': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\shell.h(5): note: 請參閱 'PICTURE' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(109): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::SetLaserAngle' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(109): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(110): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::GetLaserAngle' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(110): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(112): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::setIsLaserShooting' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(112): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(113): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::getIsLaserShooting' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(113): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(115): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::setLaserCD' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(115): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(116): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::getLaserCD' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(116): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(118): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::setRemainLaserCD' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(118): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(119): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::minus1RemainLaserCD' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(119): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(120): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::getRemainLaserCD' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(120): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(122): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::setIsLaserHitSomething' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(122): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(123): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::getIsLaserHitSomething' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(123): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(125): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::setLaserLog' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(125): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(126): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::strcatLaserLog' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(126): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(127): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::getLaserLog' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(127): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(131): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::setEnrichValue' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(131): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(132): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::getEnrichValue' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(132): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(134): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::setEnrichValue_dis' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(134): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(135): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::getEnrichValue_dis' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(135): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(137): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::setEnrichValue_CD' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(137): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(138): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::getEnrichValue_CD' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(138): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(140): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::set_remain_Enrich_CD' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(140): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(141): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::get_remain_Enrich_CD' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(141): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(142): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::minus1remain_Enrich_CD' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(142): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(151): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::DrawLaser' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(151): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(152): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::render' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(152): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselobject.h(154): warning C4490: 'override': 覆寫規範使用不當，'VesselObject::isEnrichVessel' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\vesselobject.h(154): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\vesselbb.h(7): warning C4005: 'NAME': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselcv.h(7): note: 請參閱 'NAME' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesselbb.h(8): warning C4005: 'HP': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselcv.h(8): note: 請參閱 'HP' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesselbb.h(10): warning C4005: 'MAX_ATTACK_DIS': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselcv.h(10): note: 請參閱 'MAX_ATTACK_DIS' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesselbb.h(11): warning C4005: 'ATTACK_CD': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselcv.h(11): note: 請參閱 'ATTACK_CD' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesselbb.h(12): warning C4005: 'MAX_DEFENSE_DIS': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselcv.h(12): note: 請參閱 'MAX_DEFENSE_DIS' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesselbb.h(13): warning C4005: 'DEFENSE_CD': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselcv.h(13): note: 請參閱 'DEFENSE_CD' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesselbb.h(15): warning C4005: 'SHELL_SPEED': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselcv.h(15): note: 請參閱 'SHELL_SPEED' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesselcg.h(7): warning C4005: 'NAME': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselbb.h(7): note: 請參閱 'NAME' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesselcg.h(8): warning C4005: 'HP': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselbb.h(8): note: 請參閱 'HP' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesselcg.h(9): warning C4005: 'MAX_VESSEL_SPEED': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselcv.h(9): note: 請參閱 'MAX_VESSEL_SPEED' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesselcg.h(10): warning C4005: 'MAX_ATTACK_DIS': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselbb.h(10): note: 請參閱 'MAX_ATTACK_DIS' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesselcg.h(12): warning C4005: 'MAX_DEFENSE_DIS': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselbb.h(12): note: 請參閱 'MAX_DEFENSE_DIS' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesselcg.h(14): warning C4005: 'DAMAGE': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselcv.h(14): note: 請參閱 'DAMAGE' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesselcg.h(15): warning C4005: 'SHELL_SPEED': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselbb.h(15): note: 請參閱 'SHELL_SPEED' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesseldd.h(7): warning C4005: 'NAME': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselcg.h(7): note: 請參閱 'NAME' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesseldd.h(8): warning C4005: 'HP': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselcg.h(8): note: 請參閱 'HP' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesseldd.h(9): warning C4005: 'MAX_VESSEL_SPEED': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselcg.h(9): note: 請參閱 'MAX_VESSEL_SPEED' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesseldd.h(10): warning C4005: 'MAX_ATTACK_DIS': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselcg.h(10): note: 請參閱 'MAX_ATTACK_DIS' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesseldd.h(11): warning C4005: 'ATTACK_CD': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselbb.h(11): note: 請參閱 'ATTACK_CD' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesseldd.h(12): warning C4005: 'MAX_DEFENSE_DIS': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselcg.h(12): note: 請參閱 'MAX_DEFENSE_DIS' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesseldd.h(13): warning C4005: 'DEFENSE_CD': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselbb.h(13): note: 請參閱 'DEFENSE_CD' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesseldd.h(14): warning C4005: 'DAMAGE': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselcg.h(14): note: 請參閱 'DAMAGE' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesseldd.h(17): warning C4005: 'LAUNCH_CD': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselcg.h(17): note: 請參閱 'LAUNCH_CD' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vessellv.h(10): warning C4005: 'NAME': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesseldd.h(7): note: 請參閱 'NAME' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vessellv.h(11): warning C4005: 'HP': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesseldd.h(8): note: 請參閱 'HP' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vessellv.h(12): warning C4005: 'MAX_VESSEL_SPEED': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesseldd.h(9): note: 請參閱 'MAX_VESSEL_SPEED' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vessellv.h(13): warning C4005: 'MAX_ATTACK_DIS': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesseldd.h(10): note: 請參閱 'MAX_ATTACK_DIS' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vessellv.h(14): warning C4005: 'ATTACK_CD': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesseldd.h(11): note: 請參閱 'ATTACK_CD' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vessellv.h(15): warning C4005: 'MAX_DEFENSE_DIS': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesseldd.h(12): note: 請參閱 'MAX_DEFENSE_DIS' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vessellv.h(16): warning C4005: 'DEFENSE_CD': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesseldd.h(13): note: 請參閱 'DEFENSE_CD' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vessellv.h(17): warning C4005: 'DAMAGE': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesseldd.h(14): note: 請參閱 'DAMAGE' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vessellv.h(18): warning C4005: 'SHELL_SPEED': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselcg.h(15): note: 請參閱 'SHELL_SPEED' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vessellv.h(44): warning C4553: '==': 未使用運算式結果; 您是否想要 '='?
+c:\users\user\desktop\fleet command\project3_10\vesselah.h(7): warning C4005: 'NAME': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vessellv.h(10): note: 請參閱 'NAME' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesselah.h(8): warning C4005: 'HP': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vessellv.h(11): note: 請參閱 'HP' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesselah.h(9): warning C4005: 'MAX_VESSEL_SPEED': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vessellv.h(12): note: 請參閱 'MAX_VESSEL_SPEED' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesselah.h(11): warning C4005: 'ATTACK_CD': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vessellv.h(14): note: 請參閱 'ATTACK_CD' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesselah.h(12): warning C4005: 'MAX_DEFENSE_DIS': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vessellv.h(15): note: 請參閱 'MAX_DEFENSE_DIS' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesselah.h(13): warning C4005: 'DEFENSE_CD': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vessellv.h(16): note: 請參閱 'DEFENSE_CD' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesselah.h(14): warning C4005: 'DAMAGE': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vessellv.h(17): note: 請參閱 'DAMAGE' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\vesselah.h(15): warning C4005: 'SHELL_SPEED': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vessellv.h(18): note: 請參閱 'SHELL_SPEED' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\geographicsystem.h(98): warning C4490: 'override': 覆寫規範使用不當，'GeographicSystem::render' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\geographicsystem.h(98): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\hydrometeorologicsystem.h(51): warning C4490: 'override': 覆寫規範使用不當，'HydrometeorologicSystem::getSize' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\hydrometeorologicsystem.h(51): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\hydrometeorologicsystem.h(52): warning C4490: 'override': 覆寫規範使用不當，'HydrometeorologicSystem::setSize' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\hydrometeorologicsystem.h(52): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\hydrometeorologicsystem.h(54): warning C4490: 'override': 覆寫規範使用不當，'HydrometeorologicSystem::getSize4Draw' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\hydrometeorologicsystem.h(54): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\hydrometeorologicsystem.h(55): warning C4490: 'override': 覆寫規範使用不當，'HydrometeorologicSystem::setSize4Draw' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\hydrometeorologicsystem.h(55): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\hydrometeorologicsystem.h(64): warning C4490: 'override': 覆寫規範使用不當，'HydrometeorologicSystem::render' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\hydrometeorologicsystem.h(64): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\hydrometeorologicsystem.h(72): warning C4490: 'override': 覆寫規範使用不當，'HydrometeorologicSystem::getRotatePictureAngle' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\hydrometeorologicsystem.h(72): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\hydrometeorologicsystem.h(73): warning C4490: 'override': 覆寫規範使用不當，'HydrometeorologicSystem::setRotatePictureAngle' 與基底 ref 類別方法不符
+  c:\users\user\desktop\fleet command\project3_10\hydrometeorologicsystem.h(73): note: 必須有來自 ref 類別的相符基底類別，才允許使用 'new' 或 'override'
+c:\users\user\desktop\fleet command\project3_10\lightning.h(6): warning C4005: 'DAMAGE': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\vesselah.h(14): note: 請參閱 'DAMAGE' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\typhoon.h(5): warning C4005: 'SPEED': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\lightning.h(5): note: 請參閱 'SPEED' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\typhoon.h(6): warning C4005: 'DAMAGE': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\lightning.h(6): note: 請參閱 'DAMAGE' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\typhoon.h(7): warning C4005: 'ATTACK_RANGE': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\lightning.h(7): note: 請參閱 'ATTACK_RANGE' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\fog.h(5): warning C4005: 'SPEED': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\typhoon.h(5): note: 請參閱 'SPEED' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\fog.h(6): warning C4005: 'DAMAGE': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\typhoon.h(6): note: 請參閱 'DAMAGE' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\fog.h(7): warning C4005: 'ATTACK_RANGE': 巨集重複定義
+  c:\users\user\desktop\fleet command\project3_10\typhoon.h(7): note: 請參閱 'ATTACK_RANGE' 之前的定義
+c:\users\user\desktop\fleet command\project3_10\mainform.h(281): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(294): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(307): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(320): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(333): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(346): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(359): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(372): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(1354): warning C4552: '+': 未使用運算式結果
+c:\users\user\desktop\fleet command\project3_10\mainform.h(1420): warning C4552: '+': 未使用運算式結果
+c:\users\user\desktop\fleet command\project3_10\mainform.h(1785): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2048): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2144): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2158): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2168): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2184): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2200): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2212): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2219): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2226): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2241): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2248): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2255): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2267): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2274): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2281): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2301): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2318): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2331): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2345): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2358): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2376): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2407): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2420): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2135): warning C4101: 'x4': 未參考的區域變數
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2135): warning C4101: 'y3': 未參考的區域變數
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2135): warning C4101: 'x3': 未參考的區域變數
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2135): warning C4101: 'y4': 未參考的區域變數
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2799): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2807): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2815): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(2823): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(3707): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(3713): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(3719): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(3725): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(3740): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(3860): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(3869): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(3878): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\fleet command\project3_10\mainform.h(3887): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  Project3_10.vcxproj -> C:\Users\User\Desktop\fleet command\Release\game.exe
